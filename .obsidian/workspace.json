@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "6c7a5f4dd4878698",
+    "type": "split",
+    "children": [
+      {
+        "id": "057f981f3b31f4d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec26f646d39182fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2004c1770a5ad98a",
+    "type": "split",
+    "children": [
+      {
+        "id": "35c5224b4eabec2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa4f63a9483df3eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9ffe70c47207aee8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eb0409619ebf0e4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "087c9aeace2b2323",
+    "type": "split",
+    "children": [
+      {
+        "id": "b73b1fafd63d3e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca97b3d7a7b35b29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ОПД/1. Лекция.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Лекция"
+            }
+          },
+          {
+            "id": "a833199eeb177b56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ОПД/1. Лекция.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Лекция"
+            }
+          },
+          {
+            "id": "d58b81fc502a4118",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3f5ece4bc3d1007",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ОПД/1. Лекция.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Лекция"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "aa4f63a9483df3eb",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.base",
+    "Ежедневник/2025-10-04.md",
+    "Программирование/Устройство Java - Всё что нужно знать.md",
+    "Программирование/Содержание. Программирование.md",
+    "ОПД/Содержание. ОПД.md",
+    "Pasted image 20251004230133.png",
+    "Pasted image 20251004230117.png",
+    "Pasted image 20251004203956.png",
+    "Pasted image 20251004202842.png",
+    "Pasted image 20251004202827.png",
+    "Pasted image 20251004200720.png",
+    "Pasted image 20251004200712.png",
+    "Программирование/Вводная лекция.md",
+    "Pasted image 20251004191710.png",
+    "Pasted image 20251004174753.png",
+    "Untitled",
+    "ИТМО.md",
+    "Ежедневник/2025-09-22.md",
+    "github-recovery-codes.txt",
+    "ОПД/Вводная лекция.md",
+    "Ежедневник/2025-09-21.md",
+    "2025-09-21.md",
+    "Ежедневник",
+    "Матан/Содержание. Матан.md",
+    "Алгебра/Содержание. Алгебра.md",
+    "Untitled.canvas",
+    "ОПД.md",
+    "Алгебра",
+    "Физика",
+    "Матан",
+    "Программирование",
+    "().md",
+    "ОПД"
+  ]
+}
